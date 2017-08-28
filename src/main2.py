@@ -1,6 +1,6 @@
-#-*- coding:utf-8 -*-
+﻿#-*- coding:utf-8 -*-
 #!E:\My software\python3.6
-#定义住函数，即程序的入口函数
+#定义主函数，即程序的入口函数
 import pygame
 import random
 import time
